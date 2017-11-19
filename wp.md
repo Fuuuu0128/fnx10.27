@@ -18,13 +18,21 @@
 
 2.先进行手工注入：</br>
   ①.检测注入点</br>
+  
   ![](/files_for_wp/1_2.png)</br>
+  
   正常回显</br>
+  
   ![](/files_for_wp/1_3.png)</br>
+  
   正常回显</br>
+  
   ![](/files_for_wp/1_4.png)</br>
+  
   不报错，无回显</br>
+  
   ②.检测字段数:为2</br>
+  
   ![](/files_for_wp/1_5.png)</br>
 
 3.使用sqlmap注入
