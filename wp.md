@@ -30,15 +30,22 @@
 3.使用sqlmap注入
   ①暴库</br>
   ![](/files_for_wp/1_6.png)</br>
+  
   ![](/files_for_wp/1_7.png)</br>
+  
   ②暴表</br>
   ![](/files_for_wp/1_8.png)</br>
+  
   ![](/files_for_wp/1_9.png)</br>
+  
   ③暴字段</br>
   ![](/files_for_wp/1_10.png)</br>
+  
   ![](/files_for_wp/1_11.png)</br>
+  
   ④暴字段内容</br>
   ![](/files_for_wp/1_12.png)</br>
+  
   ![](/files_for_wp/1_13.png)</br>
 
 4.flag：SYC{HACKEr_By-cL0und}
